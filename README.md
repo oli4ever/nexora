@@ -1,17 +1,16 @@
-````markdown
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://nexora-murex.vercel.app)
 [![React](https://img.shields.io/badge/React-18.2-blue?logo=react)](https://reactjs.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 # Nexora - Modern Web Experience
 
-![Nexora Screenshot](https://i.imgur.com/TzCxUgS.jpeg)
+(https://i.imgur.com/TzCxUgS.jpeg)
 
 A cutting-edge React application showcasing immersive animations and responsive design.
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://nexora-murex.vercel.app)
+[View Live Demo](https://nexora-psi.vercel.app/)
 
 ## ✨ Features
 
@@ -39,4 +38,7 @@ cd nexora
 npm install
 npm run dev
 ```
-````
+
+```
+
+```
