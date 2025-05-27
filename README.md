@@ -4,7 +4,9 @@
 
 # Nexora - Modern Web Experience
 
-![Nexora Screenshot] (https://i.imgur.com/TzCxUgS.jpeg)
+<div align="center">
+  <img src="https://i.imgur.com/TzCxUgS.jpeg" alt="Nexora Screenshot" width="800">
+</div>
 
 A cutting-edge React application showcasing immersive animations and responsive design.
 
