@@ -1,12 +1,42 @@
-# React + Vite
+````markdown
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://nexora-murex.vercel.app)
+[![React](https://img.shields.io/badge/React-18.2-blue?logo=react)](https://reactjs.org)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Nexora - Modern Web Experience
 
-Currently, two official plugins are available:
+![Nexora Screenshot](https://i.imgur.com/TzCxUgS.jpeg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A cutting-edge React application showcasing immersive animations and responsive design.
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[View Live Demo](https://nexora-murex.vercel.app)
+
+## ✨ Features
+
+- GSAP animations for smooth transitions
+- Three.js 3D elements integration
+- Responsive design for all devices
+- Custom font implementations
+- Interactive UI components
+- Optimized performance with Vite
+
+## 🛠 Technologies
+
+- React.js
+- Vite
+- Tailwind CSS
+- GSAP (Animation Library)
+- Three.js (3D Graphics)
+- Framer Motion
+
+## 🏗 Installation
+
+```bash
+git clone https://github.com/oli4ever/nexora.git
+cd nexora
+npm install
+npm run dev
+```
+````
