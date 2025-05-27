@@ -5,10 +5,10 @@ export default {
     extend: {
       fontFamily: {
         nexora: ["Rajdhani", "sans-serif"],
+        'circular-web': ["circular-web", "sans-serif"], // Add this line
         general: ["general", "sans-serif"],
-        "circular-web": ["circular-web", "sans-serif"],
-        "robert-medium": ["robert-medium", "sans-serif"],
-        "robert-regular": ["robert-regular", "sans-serif"],
+        'robert-medium': ["robert-medium", "sans-serif"],
+        'robert-regular': ["robert-regular", "sans-serif"],
       },
       colors: {
         teal: {
@@ -70,4 +70,10 @@ export default {
 },
 },
   plugins: [],
+  corePlugins: {
+    // Disable unused core plugins
+    float: false,
+    clear: false,
+    skew: false,
+  }
 };
