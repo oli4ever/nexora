@@ -1,4 +1,4 @@
-[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://nexora-murex.vercel.app)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://nexora-psi.vercel.app/)
 [![React](https://img.shields.io/badge/React-18.2-blue?logo=react)](https://reactjs.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
